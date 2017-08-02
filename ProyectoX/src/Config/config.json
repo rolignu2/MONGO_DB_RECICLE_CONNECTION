@@ -1,0 +1,9 @@
+{
+
+	"tick": 30, 
+	"timeout": 5 ,
+	"servers": ["ec2-13-59-216-199.us-east-2.compute.amazonaws.com" ],
+	"user"   : "ubuntu",
+	"password" : "linux902016",
+	"database" : "admin"
+}
